@@ -1,2 +1,0 @@
-hammerhead-pure-white
-=====================
